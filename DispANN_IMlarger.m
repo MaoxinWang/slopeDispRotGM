@@ -8,12 +8,6 @@ function [D_expected, D_nonzero, sigma_lnD, P_zero] = DispANN_IMlarger(input_PGA
 % PGA and SA(2 s) defined as the larger intensity value of the two as-recorded
 % ground motion components.
 %
-% This code is supported by the following manuscript:
-% Wang M.X., Leung Y.F., Wang G., and Zhang P. (2023). "Semi-empirical
-% predictive models for seismically-induced slope displacements considering
-% ground motion directionality.", which has been submitted to
-% ASCE Journal of Geotechnical and Geoenvironmental Engineering.
-%
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % INPUT
